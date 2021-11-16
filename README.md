@@ -21,3 +21,6 @@ Available at: [@Elsevier] http://dx.doi.org/10.1016/j.dss.2009.05.016
 
 **Goal of the project**: Predict the output/target variable - wine-quality(range 3-8). Also test feature-selection methods to analyze how the different feature combinations perform. 
 
+Project Presentation : https://drive.google.com/file/d/1Pb6k2rlFXOvOjSfmhXbqP8CgiZmC8_jw/view?usp=sharing![image](https://user-images.githubusercontent.com/67419536/142043036-f5ae0d01-52dc-48bc-a682-74acfd7676d0.png)
+
+
