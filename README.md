@@ -28,7 +28,8 @@ Results of each method are visualized using matplotlib.
 
 apply_rfe.py file uses DecisionTreeRegressor to apply recursive feature elimination and identify important features. 
 
-List of functions: 
+**List of functions:** 
+
 apply_pearson_correlation() – creates the correlation matrix and selects features based on the correlation-threshold specified.
 
 apply_rfe() – applies the recursive-feature-elimination using decision-trees to select features.
