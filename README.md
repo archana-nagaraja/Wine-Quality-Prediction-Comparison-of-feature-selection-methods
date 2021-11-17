@@ -30,10 +30,15 @@ apply_rfe.py file uses DecisionTreeRegressor to apply recursive feature eliminat
 
 List of functions: 
 apply_pearson_correlation() – creates the correlation matrix and selects features based on the correlation-threshold specified.
+
 apply_rfe() – applies the recursive-feature-elimination using decision-trees to select features.
+
 apply_lasso() – applies LassoCV to select features.
+
 apply_random_forest() – applies the random-forest regressor to predict the wine-quality using the feature-list provided. Computes r2, rmse and accuracy metrics.
+
 plot_results() – plots accuracy vs method for pearson-correlation vs RFE vs LassoCV vs All-features
+
 plot_shply() – plots accuracy vs feature-excluded for Shapley-method vs All-features
 
 Project Presentation : https://drive.google.com/file/d/1Pb6k2rlFXOvOjSfmhXbqP8CgiZmC8_jw/view?usp=sharing
