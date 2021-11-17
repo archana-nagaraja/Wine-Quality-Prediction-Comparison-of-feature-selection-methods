@@ -1,6 +1,6 @@
 **INTRODUCTION:-**
 
-Dataset used : Wine Quality based on physiochemical tests - https://archive.ics.uci.edu/ml/datasets/Wine+Quality. 
+**Dataset used:** Wine Quality based on physiochemical tests - https://archive.ics.uci.edu/ml/datasets/Wine+Quality. 
 The dataset is related to red and white wine samples of the Portuguese "Vinho Verde" wine. The main dataset includes 2 smaller datasets – one for red-wine samples and one for white-wine samples. 
 This project uses the red-wine samples dataset alone, containing 1599 instances, 11 input variables and 1 output variable. 
 Values for input variables are obtained from objective tests. Values for output variable is based on sensory data. Values are calculated as median of at least 3 ratings from wine-experts.
@@ -42,7 +42,7 @@ plot_results() – plots accuracy vs method for pearson-correlation vs RFE vs La
 
 plot_shply() – plots accuracy vs feature-excluded for Shapley-method vs All-features
 
-Project Presentation : https://drive.google.com/file/d/1Pb6k2rlFXOvOjSfmhXbqP8CgiZmC8_jw/view?usp=sharing
+**Project Presentation:** https://drive.google.com/file/d/1Pb6k2rlFXOvOjSfmhXbqP8CgiZmC8_jw/view?usp=sharing
 
 
 
